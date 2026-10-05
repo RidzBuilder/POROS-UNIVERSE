@@ -3,7 +3,7 @@
 **Project:** POROS UNIVERSE — Full-Stack Agentic & Agnostic AI Agent R&D  
 **Repository:** `RidzBuilder/POROS-UNIVERSE`  
 **Baseline branch:** `main`  
-**Current phase:** Evidence Baseline Recovery & Reconciliation  
+**Current phase:** F1 — Fundamental Baseline Reconstruction  
 **Specification status:** NOT YET CANONICAL  
 **Implementation status:** NOT STARTED  
 **AAFA status:** DEFERRED until the fundamental specification and implementation reach their applicable formal gates.
@@ -82,8 +82,11 @@ The existence of these files does not establish that all Library evidence has be
 
 - Repository metadata verified through GitHub: public repository, default branch setting `main`, repository size reported as zero, and branches endpoint returned an empty array before bootstrap.
 - Initial bootstrap creates governance and execution tracking only; it does not assert a finalized architecture or implementation.
-- Current phase: `PU-E01 — IN PROGRESS`.
-- Current formal status: `NOT PASS / NOT FINAL`.
+- Current phase: `F1 — Fundamental Baseline Reconstruction`.
+- F1 reconstruction package: `docs/evidence/POROS-V1-F1-fundamental-baseline-reconstruction-package-v0.1.md`.
+- Current formal status: `NOT CANONICAL / NOT LOCKED`.
+- Implementation status: `NOT AUTHORIZED`.
+- AAFA execution: `DEFERRED`.
 
 ## 8. Change and evidence discipline
 
